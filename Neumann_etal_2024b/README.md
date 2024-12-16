@@ -36,4 +36,4 @@ Lukas Neumann - lukas.neumann.astro@gmail.com
 ## Acknowledgments
 
 * [PHANGS collaboration]()
-* [Prof. Bigiel's research group']()
+* [Prof. Bigiel's research group]()
