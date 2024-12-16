@@ -35,5 +35,5 @@ Lukas Neumann - lukas.neumann.astro@gmail.com
 
 ## Acknowledgments
 
-* [PHANGS collaboration](www.phangs.org)
+* [PHANGS collaboration](https://sites.google.com/view/phangs/home)
 * [Prof. Bigiel's research group](https://astro.uni-bonn.de/de/forschung/radioastronomy-ism)
