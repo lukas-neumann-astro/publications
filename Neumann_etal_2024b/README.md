@@ -4,27 +4,27 @@ This directory contains python jupyter notebooks used to analyse and visulise th
 
 ## Description
 
-**database**
+**scripts/database/**
 
 Contains scripts to create one-file databases from data products for easier processing and visuliasation.
 
-**fitting**
+**scripts/fitting/**
 
 Contains a jupyter notebook to fit scaling relations with LinMix and save the results to a file
 
-**plotting**
+**scripts/plotting/**
 
 Contains all plotting scripts.
 
-**pystructure**
+**scripts/pystructure/**
 
 Contains the geometry file used with PyStacker to create the pystructure database and additional scripts used to compute physical quantities and add them to the database.
 
-**stacking**
+**scripts/stacking/**
 
 Configuration files used with PyStacker to produce spectral stacks.
 
-**tables**
+**scripts/tables/**
 
 Scripts to create tables.
 
