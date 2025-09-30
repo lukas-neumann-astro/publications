@@ -1,1 +1,0 @@
-$pdflatex = "latexdiff aanda_v1_subm.tex aanda_v2_resubm.tex > aanda_v1_v2_diff.tex; pdflatex %O  aanda_v1_v2_diff"
