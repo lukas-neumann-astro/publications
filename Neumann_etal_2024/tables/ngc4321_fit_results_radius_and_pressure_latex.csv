@@ -1,0 +1,9 @@
+x-axis,y-axis,Regime,Slope (unc.),Corr. (p),Scatter
+radius,hcn_co21,centre,-0.26 (0.02),-0.86 (0.0),0.14
+radius,hcn_co21,disc,-0.00 (0.01),-0.03 (0.306),0.23
+radius,sfr_hacorr_hcn,centre,0.22 (0.06),0.32 (0.0),0.41
+radius,sfr_hacorr_hcn,disc,0.08 (0.01),0.41 (0.0),0.38
+pressure_avg,hcn_co21,low_pressure,0.23 (0.02),0.47 (0.0),0.24
+pressure_avg,hcn_co21,high_pressure,0.40 (0.03),0.64 (0.0),0.16
+pressure_avg,sfr_hacorr_hcn,low_pressure,-0.53 (0.04),-0.47 (0.0),0.54
+pressure_avg,sfr_hacorr_hcn,high_pressure,-0.70 (0.22),-0.39 (0.003),0.39

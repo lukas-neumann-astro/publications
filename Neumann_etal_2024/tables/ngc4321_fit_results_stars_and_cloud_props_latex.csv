@@ -1,0 +1,11 @@
+x-axis,y-axis,Regime,Slope BINS,Slope LOS (unc.),Corr. (p),Scatter
+Sd_mol_avg,hcn_co21,,0.64,0.40 (0.04),0.43 (2.72e-66),0.25
+Sd_mol_avg,sfr_hacorr_hcn,_low_Sd_mol,-0.15,-0.75 (0.13),-0.30 (5.14e-30),0.60
+Sd_mol_avg,sfr_hacorr_hcn,_high_Sd_mol,-1.92,-2.30 (0.45),-0.53 (2.65e-07),0.39
+vdis_avg,hcn_co21,,0.74,0.51 (0.04),0.57 (4.33e-119),0.23
+vdis_avg,sfr_hacorr_hcn,_low_vdis,0.05,-1.05 (0.26),-0.27 (9.43e-15),0.52
+vdis_avg,sfr_hacorr_hcn,_high_vdis,-1.61,-1.58 (0.16),-0.60 (8.06e-21),0.37
+avir_avg,hcn_co21,,0.64,0.46 (0.03),0.52 (8.63e-100),0.21
+avir_avg,sfr_hacorr_hcn,,-0.89,-1.11 (0.07),-0.55 (1.26e-112),0.44
+Sd_star,hcn_co21,,0.50,0.44 (0.03),0.57 (2.39e-126),0.19
+Sd_star,sfr_hacorr_hcn,,-0.82,-1.02 (0.06),-0.50 (3.23e-93),0.46
